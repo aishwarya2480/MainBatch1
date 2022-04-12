@@ -1,0 +1,2 @@
+module batch1 {
+}
